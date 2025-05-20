@@ -1,24 +1,21 @@
-¡Claro! Aquí tienes respuestas breves y directas para la parte teórica (2.1) y un resumen de los comandos a utilizar en la parte práctica (2.2):
 
----
+ 2.1. Preguntas
 
-## 2.1. Preguntas
-
-1. **¿Qué es un branch?**  
+1. ¿Qué es un branch?
    Un branch (rama) es una línea paralela de desarrollo en un repositorio Git, que permite trabajar en cambios sin afectar la rama principal.
 
-2. **¿Por qué pueden ser útiles los branches?**  
+2. ¿Por qué pueden ser útiles los branches?
    Permiten desarrollar nuevas características, corregir errores o experimentar sin alterar el código principal, facilitando el trabajo en equipo y la organización.
 
-3. **¿Cómo se crea una branch?**  
-   ```bash
+3. ¿Cómo se crea una branch?
+   bash
    git branch nombre_rama
-   ```
+   
 
 4. **¿Cómo se cambia a una branch?**  
-   ```bash
+   bash
    git checkout nombre_rama
-   ```
+   
 
 5. **¿Cómo se elimina una branch?**  
    ```bash
