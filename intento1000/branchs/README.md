@@ -1,8 +1,6 @@
 
- ```
-bash
+
 2.1. Preguntas
-```
 
 1. ¿Qué es un branch?
    Un branch (rama) es una línea paralela de desarrollo en un repositorio Git, que permite trabajar en cambios sin afectar la rama principal.
