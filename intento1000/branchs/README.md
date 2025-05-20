@@ -1,6 +1,6 @@
 
  ```
- bash
+bash
 2.1. Preguntas
 ```
 
