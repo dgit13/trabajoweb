@@ -69,9 +69,9 @@ bash
    git commit -m "Agregar orégano arriba de la albahaca"
   
 7. Ver el grafo:
-   ```bash
+bash
    git graph
-   ```
+
 8. Cambiar a `master`:
    bash
    git checkout master
@@ -132,17 +132,17 @@ bash
     git branch --merged
    
 23. Ver el grafo:
-    ```bash
+bash
     git graph
-    ```
+    
 24. Crear tag `pizza` en el último commit:
-    ```bash
+    bash
     git tag -a pizza -m "Receta de la pizza."
-    ```
+   
 25. Ver tags:
-    ```bash
+    bash
     git tag
-    ```
+   
 26. Ver detalles del tag:
 bash
     git show pizza
