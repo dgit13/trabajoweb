@@ -13,21 +13,21 @@
    git branch nombre_rama
    ```
 
-4. *¿Cómo se cambia a una branch?*  
+4. ¿Cómo se cambia a una branch?  
    bash
    git checkout nombre_rama
    
 
-5. **¿Cómo se elimina una branch?**  
-   ```bash
+5. ¿Cómo se elimina una branch?
+   bash
    git branch -d nombre_rama
-   ```
+   
    
 
 6. ¿Cómo se crea una branch y se cambia a ella en un solo paso?
- ```bash
+bash
    git checkout -b nombre_rama
-´´´
+
    
 
 7. ¿Qué es un merge?  
